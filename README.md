@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/jaybarade"><img src="https://img.shields.io/badge/GitHub-jaybarade-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/jaybarade"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="jaybarade08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/jay-barade-227143238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  
 </p>
 
 ---
@@ -105,7 +105,7 @@ An Android app for apartment / property-related management workflows.
 ## 🌐 Connect With Me
 
 - GitHub: [github.com/jaybarade](https://github.com/jaybarade)
-- LinkedIn: https://www.linkedin.com/in/jaybarade
+- LinkedIn: https://www.linkedin.com/in/jay-barade-227143238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: jaybarade08@gmail.com
 
 ---
