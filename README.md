@@ -30,8 +30,8 @@
 - 🔭 Currently working on **Android App Projects**
 - 🌱 Learning **Advanced Android Development, CI/CD, and System Design**
 - 💬 Ask me about **Kotlin, Java, Jetpack Compose, MVVM, Firebase, Room, Retrofit**
-- 📍 Based in **Bhopal, India**
-- 📫 Reach me at: **your-email@example.com**
+- 📍 Based in **Indore, India**
+- 📫 Reach me at: **jaybarade08@gmail.com**
 
 ---
 
