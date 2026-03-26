@@ -105,7 +105,7 @@ An Android app for apartment / property-related management workflows.
 ## 🌐 Connect With Me
 
 - GitHub: [github.com/jaybarade](https://github.com/jaybarade)
-- LinkedIn: https://www.linkedin.com/in/jay-barade-227143238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn:[Jay Barade](https://www.linkedin.com/in/jay-barade-227143238)
 - Email: jaybarade08@gmail.com
 
 ---
