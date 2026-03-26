@@ -193,8 +193,16 @@ An Android application for **apartment / property management**, designed to hand
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaybarade&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+## 🧠 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybarade&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XML-Android_UI-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 ---
 
