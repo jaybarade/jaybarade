@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/jay-barade-227143238">
     <img src="https://img.shields.io/badge/LINKEDIN-JAY%20BARADE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jaybarade@gmail.com">
+  <a href="mailto:jaybarade08@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jaybarade?tab=repositories">
