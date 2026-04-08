@@ -178,7 +178,7 @@ An Android application for **apartment / property management**, designed to hand
   <img src="https://img.shields.io/badge/XML_UI-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-[🔗 View Project](https://github.com/jaybarade/ApartmentMange)
+[🔗 View Project](https://github.com/jaybarade/ApartmentManage)
 
 </td>
 </tr>
