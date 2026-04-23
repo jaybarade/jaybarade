@@ -34,7 +34,7 @@ I'm a passionate **Android Developer** from India, focused on building **modern,
 
 - 🚀 Currently working on **Android app projects**
 - 📱 Specializing in **Kotlin, Jetpack Compose, and MVVM**
-- 🔥 Learning **CI/CD, System Design, and advanced Android concepts**
+- 🔥 Learning **SpringBoot ,CI/CD, System Design**
 - ☁️ Expertise in **Firebase, Room, Retrofit, and API integration**
 - 🛠 Building **real-world apps with clean architecture**
 - 📫 Contact: **jaybarade08@gmail.com**
